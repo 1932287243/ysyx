@@ -1,4 +1,4 @@
-TOPNAME = grayCode
+TOPNAME = ps2_keyboard
 INC_PATH ?=
 VERILATOR = verilator
 VERILATOR_CFLAGS += -MMD --build -cc  \
